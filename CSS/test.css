@@ -1,0 +1,25 @@
+.prvi{
+    background-color:hotpink;
+    opacity: 0.5;
+    
+}
+
+.treci{
+    background-color:#FF69B4;
+    
+    
+}
+
+.drugi{
+    background-color:	rgb(255,105,180);
+    
+}
+
+#macka{
+    opacity: 0.5;
+    background-color: rgb(255,105,180);
+}
+
+#ker{
+    background-color: rgba(255,105,180, 0.5);
+}

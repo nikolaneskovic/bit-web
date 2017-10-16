@@ -1,0 +1,50 @@
+h1{
+    font-size:40px;
+   
+    border-radius: 25px;
+    background: red;
+   
+    width: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;§
+    text-align: center;
+    color: yellow;
+    margin: 0 auto;
+    box-shadow: 3px 12px 5px 0px rgba(255, 230, 21, 0.75); 
+    text-shadow: 3px 12px 5px rgba(255, 230, 21, 0.75); 
+    
+}
+
+
+p{
+    display: inline-block;
+    margin-right: 20px;
+    border-width: 5px;
+    vertical-align: top;
+}
+
+
+#prvi{
+  
+    border-color: red;
+    border-style: dashed;
+    width:300px;
+    margin-left: 1px;
+
+    
+
+}
+
+
+#drugi{
+    
+    border-color: red;
+    border-style: dashed;
+    width:200px;
+    margin-left: 5px;
+
+    text-align:left;
+
+
+
+}

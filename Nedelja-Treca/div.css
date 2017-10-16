@@ -1,0 +1,30 @@
+#kec{
+background-color: black;
+}
+
+#dvojka{
+    background-color:yellow;
+    
+    
+}
+
+#trojka{
+    background-color: white;
+}
+
+div{
+    width: 900px;
+    height: 200px;
+    margin:  auto;
+    border:  solid 1px black;
+    
+    
+}
+
+img{
+    width: 150px;
+    position: relative;
+    left: 373px;
+    top: 10px;
+
+}

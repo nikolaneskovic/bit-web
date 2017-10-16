@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color:red;
+}
+
+img{
+ 
+    height: 200px;
+
+
+}
+
+#eye{
+    position: relative;
+    bottom: -300px;
+}
+
+#container{
+    
+    width: 960px;
+    margin: 0 auto;
+    
+    
+    
+}
+
+
+#solomon{
+    position: relative;
+    top: 150px;
+}
+
+#king{
+    position: absolute;
+    top: 200px;
+
+}

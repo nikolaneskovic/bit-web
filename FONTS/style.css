@@ -1,0 +1,59 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: yellow;   
+}
+
+#drugi{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    font-style: oblique;
+    font-family:myfont;
+    src: url(Russian.ttf);
+}
+
+@font-face{
+    font-family: myfont;
+    src: url(Russian.ttf);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+span{ 
+    font-style: italic;
+    font-weight: bold;
+}
+
+#treci{
+    text-align: center;
+
+}
+
+#prvi{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: left;
+}
+
+#drugi{
+    text-decoration: line-through;
+    letter-spacing: 5px;
+    text-align: right;
+}
+
+a{
+ text-shadow: 4px 4px 2px rgba(150,150,150,1);
+ color: red;
+}
+
+
+a:hover{
+    color:green;
+}
+
+a:active{
+    color:orange;
+}
+
+a:visited{
+    color:black;
+}

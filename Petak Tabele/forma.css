@@ -1,0 +1,106 @@
+div{
+    width: 400px;
+    background-color: #DBD4D4;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+hr{
+    width: 150px;
+}
+
+h2{
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+h1{
+    text-align: center;
+    color: black;
+    padding-top:30px;
+}
+
+span{
+    color: orange;
+}
+input{
+    width: 300px;
+    font-size:20px;
+    color: black;
+    border: 1px solid grey;  
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: 8px 9px;
+    padding-left:25px;
+  
+
+}
+
+#ime{
+    background-image: url("user1.png");
+    background-size: 20px;
+    background-position: left;
+
+}
+
+#email{
+    background-image: url("email.png");
+    background-size: 20px;
+    background-position: left;
+
+}
+
+#broj{
+    background-image: url("contact.png");
+    background-size: 20px;
+    background-position: left;
+
+
+}
+
+
+#adresa{
+
+    background-image: url("adress.png");
+    background-size: 20px;
+    background-position: left;
+}
+
+input:focus{
+    background-color:white;
+    border: 1px, solid, #75B6EB;
+}
+
+input:email{
+    background-image: url()
+}
+
+form{
+    text-align: center;
+}
+
+p{
+    text-align: left;   
+    margin-left: 50px;
+    font-size: 20px;
+    margin-bottom: 1px;
+}
+
+button{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;    
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    
+}
+input:hover{
+    background-color:red;
+}

@@ -1,0 +1,46 @@
+#prvi-red{
+    background-color: red;
+    color: white;
+    text-align: center
+}
+
+table{
+    margin: auto;
+    
+}
+
+img{
+    height: 150px;
+ 
+    align-content: center;
+}
+
+tr{
+    text-align: center;
+    
+}
+
+tr:hover{
+    background-color: orange;
+}
+
+td{
+
+   width: 150px;
+   text-align: center;  
+   padding: 10px 0;
+   
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 60px;
+}
+
+.druga{
+    background-color: #B1A5A5;
+}
+
+.prva{
+    background-color: #DDDDDD;
+}
