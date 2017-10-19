@@ -40,7 +40,7 @@ header img{
 #hajedan{
   
     color: white;
-    font-size: 40px;
+    font-size: 25px;
    
 }
 
@@ -105,12 +105,13 @@ h3{
 
 #about{
     padding-top:20px;
+    width: 100%;
 
 }
 
 .test{
     background-color: #7272FD;
-    width: 60%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -122,14 +123,24 @@ h4{
     padding-top: 10px;
     border-radius: 80px;
     height: 100px;
+    float: left;
+    padding-left: 10px;
 }
 .testemonijali{
     color: white;
     padding-bottom: 10px;
     padding-left:10px;
     padding-right: 10px;
+    clear: left;
+    padding-top:10px;
 }
 
+
+h4{
+    float: left;
+    padding-top: 20px;
+    padding-left: 10px;
+}
 #touch{
     background-color: #93EE5E;
 }
@@ -196,4 +207,55 @@ footer{
 #footerlista{
     list-style-type:none;
     padding-top: 10px;
+}
+
+@media only screen and (min-width: 768px){
+    nav { 
+        position: absolute;
+        top: 0;
+        left: 0;
+        float: left;
+        margin: 0;
+        right: 0;
+       
+        
+    }
+
+    #lista{
+        float: right;
+        background-color:rgba(0, 0, 0, 0);
+        list-style: none;
+        width: 60%;
+        
+        
+
+    }
+
+    #lista li{
+        float: left;
+        width: auto;
+        padding-top: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        
+      
+        
+    }
+
+    #hadva{
+        float: left;
+    }
+
+    #hadva{
+        padding-left: 10px;
+        
+    }
+
+    #build{
+        border-color: white;
+        
+    }
+    #estate{
+        color: white;
+    }
 }
