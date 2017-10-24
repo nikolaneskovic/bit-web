@@ -1,0 +1,26 @@
+.contact{
+    padding:40px;
+}
+
+
+input, textarea{
+    display: block;
+    width: 100%;
+    margin: 10px;
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 20px 0px;
+}
+::placeholder{
+    color: $forForm;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: $Greenish;
+    border: 1px solid $Greenish;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+
+}
