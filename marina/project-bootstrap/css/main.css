@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 * {
-  margin: 0px;
   padding: 0px;
   font-family: 'Lato', sans-serif; }
 
@@ -65,7 +64,7 @@ p {
 
 .zvezdica {
   text-align: center;
-  margin: 0, auto;
+  margin: 0 auto;
   display: block; }
 
 .contact {
